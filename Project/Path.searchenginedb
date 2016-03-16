@@ -1,0 +1,11 @@
+./Documentation.docx
+./Main.py
+./stopwords.txt
+./Core/buildindex.py
+./Core/buildindex.pyc
+./Core/makefilesizeextpatharray.py
+./Core/makefilesizeextpatharray.pyc
+./Core/querytexts.py
+./Core/querytexts.pyc
+./Samples Files Here/ME.txt
+./Samples Files Here/Sample Book.txt
